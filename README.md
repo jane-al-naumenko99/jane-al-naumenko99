@@ -3,7 +3,7 @@
 Junior frontend-developer. Люблю верстку, анимации и JS.
 
 - 🔭 Сейчас учусь: HTML, CSS, JavaScript
-- 🌱 Практикуюсь в: CSS battle, JavaScript
+- 🌱 Практикуюсь в: CSS battles, JavaScript
 - 📫 Как связаться: evalnaumenko99@gmail.com
 
 ## Мои проекты
